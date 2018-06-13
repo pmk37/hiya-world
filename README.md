@@ -1,3 +1,3 @@
 # hiya-world
 testing my new repository
-because testing a new repositiry is good!!
+because testing a new repository is good!!
